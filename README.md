@@ -39,8 +39,8 @@ Routes du serveur : `/analyse`, `/link`, `/unlink`, `/neighbors`, `/radar`, `/se
 
 ```bash
 # 1. Récupérer le projet
-git clone https://github.com/Trilord1234/ESEO_Projet_E2.git
-cd ESEO_Projet_E2
+git clone https://github.com/Trilord1234/Tako-Space.git
+cd Tako-Space
 
 # 2. Installer les dépendances Python
 pip install -r requirements.txt
