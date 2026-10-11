@@ -71,5 +71,12 @@ Thumbs.db
 *.csv
 graphs/
 
+# Secrets (ne jamais commiter)
+TakoAPIKey.py
+.env
 
+# Godot
+.godot/
+
+# Environnement virtuel Python
 .Banana
