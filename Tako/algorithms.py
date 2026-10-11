@@ -8,7 +8,7 @@ Paliers B, C, D.
 """
 
 from collections import deque
-from .graph import Graph
+from graph import Graph
 
 
 # ============================================================================

@@ -78,4 +78,5 @@ TakoAPIKey.py
 # Godot
 .godot/
 
+# Environnement virtuel Python
 .Banana

@@ -67,7 +67,7 @@ def analyser_planete():
                 {"role": "system", "content": system_prompt},
                 {"role": "user", "content": prompt_received}
             ],
-            model="llama-3.3-70b-versatile",
+            model="openai/gpt-oss-120b",
             response_format={"type": "json_object"} 
         )
 
@@ -351,7 +351,7 @@ def tako_chat():
     try:
         answer = client.chat.completions.create(
             messages=messages_IA,
-            model="llama-3.3-70b-versatile",
+            model="openai/gpt-oss-120b",
             temperature=0.9,
             response_format={"type": "json_object"}
         )
