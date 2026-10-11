@@ -5,8 +5,8 @@
 
 Projet réalisé dans le cadre du cours **Python S4 – ESEO 2025/2026** (projet fil rouge sur les graphes).
 
-![Création de planets](image.png)
-![Exploration de planets](image-1.png)
+![Création de planets](docs/apercu-creation.png)
+![Exploration de planets](docs/apercu-exploration.png)
 
 ---
 
@@ -55,8 +55,6 @@ python Tako/Serveur_Tako_Space.py
 
 Ensuite, ouvrir `Godot/projet-info/project.godot` dans Godot 4.5 et lancer le jeu (**F5**). Le client communique avec le serveur sur `http://127.0.0.1:8000`.
 
-> La musique du jeu de cartes est remplacée par une piste silencieuse : remplacez `Godot/projet-info/Sound/Card Game.mp3` par la piste de votre choix.
-
 > Sous Windows PowerShell, remplacer `cp` par `copy`.
 
 ## Tests
@@ -90,8 +88,13 @@ python -m pytest
 - Squelette du projet, sujet et tests fournis par l'équipe pédagogique de l'ESEO ([dépôt d'origine](https://github.com/JustincGuechi/PythonS4ESEO_2025_2026)).
 - [Godot Engine](https://godotengine.org/) pour le client de jeu.
 - [Groq](https://groq.com/) et le modèle gpt-oss-120b d'OpenAI pour la génération de texte.
+- **Pixel art** (planètes, Tako, boutons, interface) : créé par l'équipe du projet.
+- **Fonds d'écran et vaisseau** : ressources tierces, source à préciser, propriété de leurs auteurs.
+- **Musique du jeu de cartes** : *<Black Souls 2 Soundtrack - Card game>*, source : *<Youtube>*, propriété de ses ayants droit.
 
 ## Licence
 
-© 2026 Trilord1234. Tous droits réservés.
+© 2026 Trilord1234. Tous droits réservés, hors ressources tierces
+(fonds d'écran, vaisseau et musique : voir Crédits, qui restent la propriété de leurs auteurs).
 Ce dépôt est public pour consultation. Toute reproduction, modification ou redistribution nécessite l'accord écrit des auteurs.
+Retrait des ressources tierces sur simple demande.
