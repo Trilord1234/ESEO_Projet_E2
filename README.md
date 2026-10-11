@@ -89,8 +89,8 @@ python -m pytest
 - [Godot Engine](https://godotengine.org/) pour le client de jeu.
 - [Groq](https://groq.com/) et le modèle gpt-oss-120b d'OpenAI pour la génération de texte.
 - **Pixel art** (planètes, Tako, boutons, interface) : créé par l'équipe du projet.
-- **Fonds d'écran et vaisseau** : ressources tierces, source à préciser, propriété de leurs auteurs.
-- **Musique du jeu de cartes** : *<Black Souls 2 Soundtrack - Card game>*, source : *<Youtube>*, propriété de ses ayants droit.
+- **Fonds d'écran et vaisseau** : ressources tierces (sources exactes perdues depuis la fin du projet, propriété de leurs auteurs originaux).
+- **Musique du jeu** : [*Black Souls 2 Soundtrack - Card game*](https://youtu.be/qFKGALOHtwM?si=5j53tZO5m1SvtaV0) (OST du jeu développé par Toro). Propriété de ses ayants droit.
 
 ## Licence
 
